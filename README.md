@@ -6,3 +6,5 @@ The initial gain settings for the TIA circuit were 10, 100 and 1000 V/V but were
 Gain: 10k, 110k and 1M V/V.
 Voltage output:  > 2V
 
+TIA_documentation_Windborne.pdf is a snippet (part of a project) that contains the documentation, including schematic, simulation, layout, and testing for the Photodiode Transimpedance amplifier circuit.
+
