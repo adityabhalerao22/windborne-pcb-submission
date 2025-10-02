@@ -12,4 +12,5 @@ The coolest part of the design is that the photodiode and the amplifier circuitr
 Another really cool design part is the variable gain feature is done using solder pads, which makes the soldering board even less complex without unnecessary analog switches or programmable gain op-amps.
 
 Name - Aditya Bhalerao
+
 Contact - aditya.b.mobile@gmail.com
