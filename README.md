@@ -8,3 +8,5 @@ Voltage output:  > 2V
 
 TIA_documentation_Windborne.pdf is a snippet (part of a project) that contains the documentation, including schematic, simulation, layout, and testing for the Photodiode Transimpedance amplifier circuit.
 
+The coolest part of the design is that the photodiode and the amplifier circuitry are squeezed onto a small board, with the photodiode centered with ultra-short traces into the TIA input. This minimizes parasitic capacitance and inductive pickup in a very simple way, whereas most modules have a completely separate amplifier board with SMA connectors. 
+Another really cool design part is the variable gain feature is done using solder pads, which just makes the soldering board even less complex without unnecessary analog switches or programmable gain op-amps.
